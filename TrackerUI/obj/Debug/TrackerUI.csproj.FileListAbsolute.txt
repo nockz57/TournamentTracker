@@ -1,0 +1,14 @@
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
