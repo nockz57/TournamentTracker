@@ -12,3 +12,6 @@ D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\ob
 D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
 D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
 D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+D:\New folder\Practice Projects\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
